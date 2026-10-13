@@ -1,0 +1,11 @@
+# Sensitive API keys
+.env
+
+# Virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Streamlit runtime cache
+.streamlit/
